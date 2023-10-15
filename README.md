@@ -7,7 +7,7 @@
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
+- ✍ kênh youtube: (https://akachain.io/).
 
 <br />
 
