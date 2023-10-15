@@ -1,8 +1,7 @@
 
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">
-  Hi 👋,tui là khánh dân chăn trâu
-  ở vũng tàu </h1>
+  Hi 👋,tui là khánh  </h1>
 <p align="center">
   <h3 align="center">Tui đến từ  Vietnam 🇻🇳 </h3>
 </p>
