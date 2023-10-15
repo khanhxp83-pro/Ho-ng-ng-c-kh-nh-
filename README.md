@@ -8,7 +8,7 @@
 <br />
 
 ## 📫 How to reach me:
-  <a href="(https://www.facebook.com/khanhxp.hoang)" alt="Facebook">
+  <a href="https://www.facebook.com/khanhxp.hoang" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
